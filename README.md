@@ -3,13 +3,10 @@
 
 Please complete your proposal following the outline below.
 
-## Project title
+## Sleep and health
 
-Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
+### Jiwoo Han jihan@uw.edu, Sara Yi szzzara@uw.edu
 
-### Authors
-
-Names of your team members and contact information (email addresses).
 ### Date
 
 Winter 2023
