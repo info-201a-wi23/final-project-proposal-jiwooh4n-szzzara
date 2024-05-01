@@ -12,24 +12,33 @@ Please complete your proposal following the outline below.
 Winter 2023
 ## Abstract
 
-No more than three sentences that summarize your project. Focus on the very most important aspects. For example: (1) "Our main question is .... This question is important because .... To address the question, we will ...." (2) "We are concerned with ..., because .... To address this concern, we plan to ...." (3) "Consider that .... This is important because .... Accordingly, we plan to ...."
+Our main question is how can we find correlations between sleep data and their health outcomes? We chose this question to help identify patterns and factors that may influence the overall health affected by sleep. To address this question, we will analyze a data set that contains sleep data that were provided by users and the contributing factors that influence one's overall health. 
 
-## Keywords
-
-3-5 keywords that summarize your project.
-(e.g., "Keywords: human physiology; bicycle exercise; Gen Z; times-series data")
+## Sleep cycle; sleep deprivation; health
 
 ## Proposal
 
-1. Introduction  
+### 1. Introduction  
 
-> Briefly introduce your project.  Include 3-5 research questions. What motivates the questions? Why are they important? (at least 200 words)
+Sleep takes up an enormous portion of our lives, but its effects and importance is widely underestimated and ignored in regards to our health. Current societal standards do not hold sleep to be a crucial necessity to the extent that it should be, as seen by recent statistics. More than a third of Americans are estimated to get less than the recommended 7 hours of sleep, and the percentage of those sleep deprived only get greater when centered around high school and college students, thanks to our culture’s work ethic that promotes productivity over health. Sacrificing sleep in order to get a few more hours of studying, or waking up before the sun rises in order to get to the office– these things are normalized, if not applauded. However, sleep studies have shown that prolonged sleep deprivation can have adverse effects on almost every system in the body, like cardiovascular and nervous systems. Thus, we decided to focus our project on the prevalence of those with health issues and their relationship with sleep in order to detect a significant correlation between the two. Exactly how important is sleep? How does it affect our daily functions? What are the implications of prolonged sleep deprivation? These questions are the motivation behind our research. These questions are important, as they concern the wellbeing of people who may not even know the gravity of losing a few hours of sleep. Further knowledge of the importance of sleep is crucial in order for people to be able to make better informed decisions about their sleep schedules. 
 
-2. Related Work  
+### 2. Related Work 
 
-> Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
+*Extent and Health Consequences of Chronic Sleep Loss and Sleep Disorders* 
 
-3. The Dataset
+This sleep study recorded sleep loss (which is any nightly sleep that is less than 7 hours) to have effects on cardiovascular, endocrine, immune, and nervous systems. Specifically, they noted obesity, diabetes, cardiovascular disease, hypertension, anxiety, depression, alcoholism to have a strong correlation with individuals who experienced chronic sleep deprivation. Adolescents need 9 hours of sleep, but only 26% get 6.5 hours or less on school nights. Sleep loss only accumulates as they get older.
+
+Institute of Medicine (US) Committee on Sleep Medicine and Research; Colten HR, Altevogt BM, editors. Sleep Disorders and Sleep Deprivation: An Unmet Public Health Problem. Washington (DC): National Academies Press (US); 2006. Available from: https://www.ncbi.nlm.nih.gov/books/NBK19960/ doi: 10.17226/11617
+
+*What Sleep Loss Does to the Brain and Cognition*
+
+A sleep study was conducted on students at Michigan State University. Two groups were created, those who stayed up to work in the labs versus those who got a normal night of sleep. The sleep-deprived group had significantly more lapses in attention compared to the rested group. If prolonged, chronic sleep deprived individuals more at risk for cognitive decline, like Alzheimer’s.
+
+*Causes and consequences of sleepiness among college students*  
+This article focuses on daytime sleepiness, sleep deprivation’s impact on college students’ academic performance and health. Factors contributing to sleep deprivation (irregular sleep schedules, academic workload, phone/technology use, social factors; including parties, social gatherings.., stress and anxiety, environmental factors; noise, light pollution, dorm, temperature). Some correlations found between sleep and learning included memory consolidation, acquisition of knowledge, attention, concentration, and emotional regulation 
+
+
+### 3. The Dataset
 
 > Where did you find the data? Please include a link to the data source  
 > Who collected the data?  
@@ -40,12 +49,16 @@ No more than three sentences that summarize your project. Focus on the very most
 > What, if any, ethical questions or questions of power do you need to consider when working with this data?  
 > What are possible limitations or problems with this data?   (at least 200 words)
 
-4. Implications
+### 4. Implications
 
-> Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
+Our research regarding correlations between sleep and health effects could lead to a better understanding of the long term health implications of sleep deprivation. Because our current work culture encourages productivity to the extent of staying up late and waking up early, it is extremely important to better educate individuals about the exact effects of doing such things so that they are aware of the consequences of chronic sleep deprivation. A lot of people are not acutely aware of just how big of a factor sleep is, so our research would encourage more widespread awareness. Thus, having a better understanding of sleep could help people prioritize and find a healthier balance between work and rest. In addition to this, our research could find existing correlations between sleep and other health factors, which would specify the exact kinds of effects that sleep deprivation could have on an individual. Future societal implications could include a new school system, one that allows students to sleep in, or more mandated education regarding sleep.
 
-5. Limitations & Challenges
->What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
+### 5. Limitations & Challenges
 
-Acknowledgements
-> Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? Say thank you in this section.
+One of the challenges that we may face is the reliability of sleep data that is collected. Sleep tracking technology may lack accuracy and factors such as movement during sleep or certain environmental conditions may affect the data’s quality. Addressing this challenge will involve putting together robust algorithms and validation processes to filter and have the tracking system interpret data more effectively. 
+
+Privacy and data security is a challenge we need to overcome as there are many concerns surrounding digital health applications. It is important to ensure that user data is protected and will be in compliance with relevant privacy regulations to be able to build trust among users and secure sensitive information. 
+
+Being able to address the diverse needs and preferences in regards to recommending ways to improve sleep habits is crucial. Some resources that work for an individual may not work for another. So the platform must stay flexible and adaptable to accommodate the wide range of users and their unique circumstances. 
+
+Addressing these challenges requires technological innovation, user engagement strategies, privacy measures, and the deep understanding of sleep health in order to create a successful web application. 
