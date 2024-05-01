@@ -34,9 +34,12 @@ Institute of Medicine (US) Committee on Sleep Medicine and Research; Colten HR, 
 
 A sleep study was conducted on students at Michigan State University. Two groups were created, those who stayed up to work in the labs versus those who got a normal night of sleep. The sleep-deprived group had significantly more lapses in attention compared to the rested group. If prolonged, chronic sleep deprived individuals more at risk for cognitive decline, like Alzheimer’s.
 
+Walton, A. G. (2019, November 29). New Studies Show What Sleep Loss Does To The Brain And Cognition. Forbes. https://www.forbes.com/sites/alicegwalton/2019/11/29/new-studies-show-what-sleep-loss-does-to-the-brain-and-cognition/?sh=3f04e2068e30
+
 *Causes and consequences of sleepiness among college students*  
 This article focuses on daytime sleepiness, sleep deprivation’s impact on college students’ academic performance and health. Factors contributing to sleep deprivation (irregular sleep schedules, academic workload, phone/technology use, social factors; including parties, social gatherings.., stress and anxiety, environmental factors; noise, light pollution, dorm, temperature). Some correlations found between sleep and learning included memory consolidation, acquisition of knowledge, attention, concentration, and emotional regulation 
 
+Wang, Z., & Zhao, H. (2014). Sleep deprivation: Impact on cognitive performance. Neuropsychiatric Disease and Treatment, 10, 1809–1825. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4075951/
 
 ### 3. The Dataset
 
