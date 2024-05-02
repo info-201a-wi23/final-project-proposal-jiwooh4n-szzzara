@@ -1,20 +1,19 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/9bMXU1P_)
 # Final Project Proposal
 
-Please complete your proposal following the outline below.
-
 ## Sleep and health
 
 ### Jiwoo Han jihan@uw.edu, Sara Yi szzzara@uw.edu
 
 ### Date
 
-Winter 2023
+Spring 2024
+
 ## Abstract
 
 Our main question is how can we find correlations between sleep data and their health outcomes? We chose this question to help identify patterns and factors that may influence the overall health affected by sleep. To address this question, we will analyze a data set that contains sleep data that were provided by users and the contributing factors that influence one's overall health. 
 
-## Sleep cycle; sleep deprivation; health
+Sleep cycle; sleep deprivation; health
 
 ## Proposal
 
@@ -43,14 +42,19 @@ Wang, Z., & Zhao, H. (2014). Sleep deprivation: Impact on cognitive performance.
 
 ### 3. The Dataset
 
-> Where did you find the data? Please include a link to the data source  
-> Who collected the data?  
-> How was the data collected or generated?  
-> Why was the data collected?  
->How many observations (rows) are in your data?  
-> How many features (columns) are in the data?  
-> What, if any, ethical questions or questions of power do you need to consider when working with this data?  
-> What are possible limitations or problems with this data?   (at least 200 words)
+*Sleep health and Lifestyle Dataset* 
+https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+
+The data set we are using is “Sleep Deprivation among College Students in the US” sourced from Google Dataset Search. It features the statistics of college students in the United States who have a hard time sleeping. This data set is helpful when cross sectioned with various other demographic and health data sets, such as depression’s effect on sleep deprived college students. The data set helps us understand the various aspects of health involving the population of college students. 
+
+*Total Sleep Deprivation Increases Brain Age Prediction Reversibly in Multisite Samples of Young Healthy Adults*
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10039745/
+
+“Total Sleep Deprivation Increases Brain Age Prediction Reversibly in Multisite Samples of Young Healthy Adults” sourced by NIH discusses the correlation of sleep deprivation and brian age. The study surrounds MRI data from 134 healthy volunteers (ages ranging from 19-39) where they are conducted in 5 different sleep conditions. The 5 various sleep conditions includes total sleep deprivation ( more than 24 hours of being awake), recovery sleep (one night of recovery sleep after total sleep deprivation), acute partial sleep deprivation (3 hours of sleep), chronic partial sleep deprivation (5 hours), and baseline (normal sleep conditions). As the study concludes that the brain ages 1-2 years on average, this data set helps us understand the impact of sleep deprivation and brain health. 
+
+*Effect of 24-hour sleep deprivation on cerebral hemodynamics and cognitive performance* 
+https://physionet.org/content/sleep-dep-hemo-cog/1.0.0/
+The data set was conducted by University of Oklahoma and it studies the impact of sleep deprivation on cerebral hemodynamics in young adults. The study was surrounded by ten healthy male adults (average age of 27.6) who underwent fNIRS measurement while doing various cognitive tasks before and after 24 hours of total sleep deprivation. The dataset shared the impact in decision making processes. This dataset will help us understand how sleep deprivation changes brain functioning and the implications of brain health. 
 
 ### 4. Implications
 
